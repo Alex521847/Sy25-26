@@ -5,6 +5,15 @@ lineup = [
     ("Syntax Error", "Metal", 60)
 ]
 
+print("\n---Py-Fest 2026 Stage Manager ---\n")
+print("1. View Lineup & Total Time.")
+
+
+
+
+
+
+
 # 1. Add the headliner
 headliner = ("The Byte Beats", "Synthwave", 90)
 lineup.append(headliner)
